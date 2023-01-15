@@ -1,1 +1,1 @@
-This is the data analysis project as part of the final course of Google Data Analytics Professional Certification. The business overview and datasets are more described within the ipynb file. 
+This is the data analysis project as part of the final course of Google Data Analytics Professional Certification. The complete project could be run from Kaggle by following this link: <a href=https://www.kaggle.com/code/baonguyen17ald/cyclistic-case-bike-sharing-program>Cyclistic Case</a>
